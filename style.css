@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    margin: 500px;
+    border: 2px solid blueviolet;
+}
+.Karthi{
+    background-color: peru;
+    margin-trim: 200px;
+}
+.Priya{
+    background-color: seagreen;
+    padding-inline: 60px;
+
+}
+.Sadhu{
+    padding-inline: 55px;
+}
+.a,.b,.e,.h{
+    padding-right: 140px;
+}
+.f,.g,.c{
+    padding-right: 110px;
+}
+.d{
+    padding-right: 85px;
+}
+
